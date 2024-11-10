@@ -25,10 +25,12 @@ c. Better Service
 ![Screenshot 2024-11-10 193202](https://github.com/user-attachments/assets/8ad391f3-4d24-4d94-a34e-4d1abd73029a)
 
 ### COMMUNICATION DIAGRAM:
-![Screenshot 2024-11-10 193445](https://github.com/user-attachments/assets/a3f97546-4e25-40ff-932a-3e9414992661)
+![Screenshot 2024-11-10 193500](https://github.com/user-attachments/assets/6cb07cbe-e9d5-4c1b-8fd4-0acf770d20b1)
+
 
 ### ACTIVITY DIAGRAM:
-![Screenshot 2024-11-10 193500](https://github.com/user-attachments/assets/c1b70f0b-8177-4c19-a0f6-6cfba885e61c)
+
+![Screenshot 2024-11-10 193445](https://github.com/user-attachments/assets/552d4160-b006-481c-941b-d97786d68d2f)
 
 
 
